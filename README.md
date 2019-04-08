@@ -1,3 +1,3 @@
 
-##To compile
-#g++ filename.cpp -lglut -lGL
+#To compile
+g++ filename.cpp -lglut -lGL
